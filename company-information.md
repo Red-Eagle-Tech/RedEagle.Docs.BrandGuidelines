@@ -166,4 +166,7 @@ For the team, it enables flexible working arrangements and draws from diverse ta
 
 ---
 
-*For technical standards and guidelines used within Red Eagle Tech projects, please refer to the other documents in this repository.*
+*FOUNDER: Kat Korson*
+*ADDRESS: Red Eagle Tech, Prospect House, 2 Athenaeum Road, London N20 9AE.*
+*EMAIL: hello@redeagle.tech*
+*TEL: +44 (0)20 8044 3221*
