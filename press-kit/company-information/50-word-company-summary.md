@@ -7,8 +7,9 @@ offering enterprise-grade technology without enterprise-level cost or complexity
 
 
 ## Contact details
-*FOUNDER: Kat Korson*
-*ADDRESS: Red Eagle Tech, Prospect House, 2 Athenaeum Road, London N20 9AE.*
-*EMAIL: hello@redeagle.tech*
-*TEL: +44 (0)20 8044 3221*
-*WEB: https://redeagle.tech*
+
+- **Founder**: Kat Korson
+- **Address**: Red Eagle Tech, Prospect House, 2 Athenaeum Road, London N20 9AE
+- **Email**: hello@redeagle.tech
+- **Tel**: +44 (0)20 8044 3221
+- **Web**: https://redeagle.tech
