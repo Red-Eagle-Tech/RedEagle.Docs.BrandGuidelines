@@ -1,3 +1,7 @@
-# Visual Studio junk
-.vs/
+#Red Eagle Tech custom
+
+*.local.md
+.claude
 .claude/
+NtfsJunctions/
+NtfsJunctions
